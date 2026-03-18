@@ -1,0 +1,68 @@
+h1{
+  font-family: "Rubik Glitch", system-ui;
+  font-weight: 400;
+  font-style: normal;
+    text-align:center;
+    font-size:44px;
+}
+img{
+  max-width:100%;
+}
+body{
+  font-family: "Baumans", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align:center;
+  background-color:white;
+}
+h2{
+  font-family: "Fugaz One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align:center;
+  border-style:inset;
+  border-color:slategrey;
+  padding:9px 11px;
+  border-width:9px;
+}
+h3{
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+  border-left-style:solid;
+  border-left-color:rgb(33, 132, 194);
+  border-left-width:9px;
+  padding:9px 11px;
+}
+h4{
+  font-family: "Margarine", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 22px;
+}
+button:hover{
+    background-color:gainsboro;
+}
+button{
+    font-size:17px;
+    padding:15px 22px;
+    background-color: darkgrey;
+    cursor:pointer;
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    font-weight:400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+}
+footer{
+    font-size:17px;
+  font-family: "Tilt Neon", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "XROT" -19,
+    "YROT" 0;
+}
